@@ -1,3 +1,5 @@
+Paper: Prototypical Self-Explainable Models Without Re-training ([Link](https://api.nva.unit.no/publication/0198cc94fc5e-f9090bec-6ccb-41b9-b38f-09d2c173bfe3))
+
 # KMEx
 The official repository for Prototypical Self-Explainable Models Without Re-training
 
